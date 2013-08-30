@@ -1,0 +1,25 @@
+@font-face {
+	font-family: "Good Times";
+	src: url('../fonts/good_times.ttf');
+}
+@font-face {
+	font-family: "Good Times IE";
+	src: url('../fonts/good_times.eot');
+}
+/*Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Good Times", "Good Times IE";
+}
+/*HTML*/
+body {
+	background: #000;
+	text-align: center;
+	color: #fff;
+	border-top: 3px solid #fff;
+}
+/*Content*/
+.content{
+	margin-top: 80px;
+}
