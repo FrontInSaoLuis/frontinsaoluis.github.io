@@ -14,7 +14,7 @@
 }
 /*HTML*/
 body {
-	background: #000;
+	background: url(../img/bg.jpg);
 	text-align: center;
 	color: #fff;
 	border-top: 3px solid #fff;
@@ -35,4 +35,15 @@ body {
 .content .fb-like-box {
 	background: #fff;
 	margin: 15px 0;
+}
+/*Logo*/
+.logo {
+	position: absolute;
+	background: #fff;
+	top: 0;
+	left: 45px;
+	border-radius: 0 0 10px 10px;
+	border-bottom: 3px solid #22BAF2;
+	padding: 5px;
+	box-shadow: 0px 0px 8px #22BAF2;
 }
