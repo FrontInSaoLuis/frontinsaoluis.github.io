@@ -29,3 +29,6 @@ body {
 	opacity: 1.0;
 	filter: alpha(opacity=100);
 }
+.content h4 {
+	margin-bottom: 15px;
+}
