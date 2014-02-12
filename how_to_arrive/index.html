@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Como Chegar no PHPub - MA!</title>
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body onload="show_map()">
+	<section class="content">
+		<nav class="menu">
+		<ul>
+			<li>
+				<a href="http://www.phpmaranhao.com.br">
+					<img src="assets/img/logo.png" alt="">
+				</a>
+				<span>Como Chegar no 12° PHPub - MA!</span>
+			</li>
+		</ul>
+		<span class="tracar_rota" id="btn-como-chegar">
+			Traçar Rota
+		</span>
+	</nav>		
+	<div class="map" id="geo-wrapper"></div>
+	</section>
+<script type="text/javascript"
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQqw9aro9Nynkl4ApfR77s3UmZWXkToEI&sensor=true">
+</script>
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/gears_init.js"></script>
+<script type="text/javascript" src="https://geo-location-javascript.googlecode.com/svn/trunk/js/geo.js"></script>
+<script type="text/javascript" src="assets/js/maps.js"></script>
+</body>
+</html>

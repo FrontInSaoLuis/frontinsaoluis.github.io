@@ -1,0 +1,72 @@
+/*Fonts*/
+@font-face {
+	font-family: "roboto";
+	src: url("../fonts/roboto-thin-webfont.ttf");
+}
+/*Reset*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+	font-size: 16px;
+	font-family: roboto;
+}
+ul {
+	list-style: none;
+}
+/*Content*/
+.content {
+	width: 100%;
+	height: 550px;
+	position: relative;
+}
+/*Menu*/
+.content .menu {
+	background: rgb(255, 255, 255);
+	width:99.5%;
+	position: absolute;
+	box-shadow: 0px 0px 4px #000;
+	padding: 5px 5px;
+	display: table;
+    z-index: 9999;
+    color: #036;
+
+}
+.content .menu .tracar_rota {
+	padding: 10px;
+	border-radius: 30px;
+	background: -webkit-linear-gradient(#036, #069);
+	background: -moz-linear-gradient(#036, #069);
+	background: -o-linear-gradient(#036, #069);
+	background: linear-gradient(#036, #069);
+	color: #fff;
+	box-shadow: 0px 0px 3px #000;
+	float: right;
+	margin: 10px 10px 0 0;
+	font-size: 12px;
+	cursor: pointer;
+	-webkit-transition: margin 0.3s ease-in-out;
+	-moz-transition: margin 0.3s ease-in-out;
+	-o-transition: margin 0.3s ease-in-out;
+	transition: margin 0.3s ease-in-out;
+}
+.content .menu .tracar_rota:active {
+	margin: 15px 15px 0 0;
+}
+
+.content .menu ul {
+	float: left;
+}
+.content .menu a {
+	text-decoration: none;
+}
+.content .menu img {
+	vertical-align: middle;
+}
+/*Map*/
+.content .map {
+	width: 100%;
+	height: 550px;
+}
