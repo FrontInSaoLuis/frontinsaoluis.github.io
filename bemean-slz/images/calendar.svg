@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="62px" height="58px" viewBox="0 0 62 58" enable-background="new 0 0 62 58" xml:space="preserve">
+<g id="Shadow_18_" opacity="0.302">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M56,41H6c-3.314,0-6,2.686-6,6v5c0,3.313,2.686,6,6,6h50c3.313,0,6-2.687,6-6v-5
+			C62,43.686,59.313,41,56,41z"/>
+	</g>
+</g>
+<g id="BG_1_">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#EF4A4A" d="M57,0H5C2.238,0,0,2.238,0,5v47c0,2.762,2.238,5,5,5h52
+			c2.762,0,5-2.238,5-5V5C62,2.238,59.762,0,57,0z M13.5,13c-1.934,0-3.5-1.567-3.5-3.5C10,7.566,11.566,6,13.5,6
+			C15.433,6,17,7.566,17,9.5C17,11.433,15.433,13,13.5,13z M48.5,13c-1.934,0-3.5-1.567-3.5-3.5C45,7.566,46.566,6,48.5,6
+			C50.433,6,52,7.566,52,9.5C52,11.433,50.433,13,48.5,13z"/>
+	</g>
+</g>
+<g id="Paper">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E5E5E5" d="M5,18v30c0,2.209,1.791,4,4,4h34.857L57,38.857V18H5z"/>
+	</g>
+</g>
+<g id="Curve_shadow_1_" opacity="0.1608">
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="33.857,52 44,52 44,41.857 		"/>
+	</g>
+</g>
+<g id="Curve_copy">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M47.25,39C45.455,39,44,40.455,44,42.25V52h0.423L57,39.423V39
+			H47.25z"/>
+	</g>
+</g>
+</svg>

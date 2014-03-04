@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="61.99px" height="69px" viewBox="0 0 61.99 69" enable-background="new 0 0 61.99 69" xml:space="preserve">
+<g id="Rounded_Rectangle_1">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#71C171" d="M57,7H5c-2.762,0-5,2.238-5,5v52c0,2.762,2.238,5,5,5h52
+			c2.762,0,5-2.238,5-5V12C62,9.238,59.762,7,57,7z"/>
+	</g>
+</g>
+<g id="Paper_shadow" opacity="0.0902">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M49,60H13c-2.209,0-4-1.791-4-4v2c0,2.209,1.791,4,4,4h36c2.209,0,4-1.791,4-4
+			v-2C53,58.209,51.209,60,49,60z"/>
+	</g>
+</g>
+<g id="Paper_1_">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M49,11H13c-2.209,0-4,1.791-4,4v41c0,2.209,1.791,4,4,4h36
+			c2.209,0,4-1.791,4-4V15C53,12.791,51.209,11,49,11z"/>
+	</g>
+</g>
+<g id="Hanger">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CACACA" d="M45,4h-9.051c-0.251-2.247-2.135-4-4.449-4s-4.198,1.753-4.449,4
+			H17c-1.104,0-2,0.896-2,2v6c0,1.104,0.896,2,2,2h28c1.104,0,2-0.896,2-2V6C47,4.896,46.104,4,45,4z M31.5,7
+			C30.119,7,29,5.881,29,4.5S30.119,2,31.5,2C32.881,2,34,3.119,34,4.5S32.881,7,31.5,7z"/>
+	</g>
+</g>
+<g id="Hanger_shadow">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B3B3B3" d="M45,12H17c-1.104,0-2-0.896-2-2v2c0,1.104,0.896,2,2,2h28
+			c1.104,0,2-0.896,2-2v-2C47,11.104,46.104,12,45,12z"/>
+	</g>
+</g>
+<g id="Check_icon">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#71C171" d="M20.779,21.376l-0.481-0.241c0,0-0.386-0.311-0.655,0.034
+			l-2.345,3.173c-0.138,0.207-0.321,0.037-0.321,0.037l-1.033-0.847c0,0-0.309-0.172-0.501,0.207l-0.427,0.552
+			c0,0-0.12,0.237,0.227,0.409l1.402,1.099c0,0,0.235,0.205,0.499,0.205c0.203-0.002,0.427-0.003,0.427-0.003
+			s0.472-0.018,0.693-0.418l2.66-3.819C20.924,21.764,21.165,21.548,20.779,21.376z"/>
+	</g>
+</g>
+<g id="List">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5D5D5" d="M15,36h6v-6h-6V36z M25,34h22v-2H25V34z M15,45h6v-6h-6V45z
+			 M25,43h22v-2H25V43z M15,54h6v-6h-6V54z M25,52h22v-2H25V52z M25,23v2h22v-2H25z"/>
+	</g>
+</g>
+</svg>
